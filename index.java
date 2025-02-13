@@ -184,9 +184,11 @@ package java;
 // }
 
 
-public class index {
+public  class index {
 
-    public static void message(){
-        System.out.println("hello hoe are you");
+    public static void main(String[] args) {
+        for(int i = 1;i<=10;i++){
+            System.out.println(2*i);
+        }
     }
 }
