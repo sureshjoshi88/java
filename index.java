@@ -184,3 +184,9 @@ package java;
 // }
 
 
+public class index {
+
+    public static void message(){
+        System.out.println("hello hoe are you");
+    }
+}
