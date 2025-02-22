@@ -20,13 +20,26 @@
 //     }
 // }
 
-public class function {
+// public class function {
 
-    static void numbers(int a ,int b){
-        int num = a*b;
-        System.out.println(num);
+//     static void numbers(int a ,int b){
+//         int num = a*b;
+//         System.out.println(num);
+//     }
+//     public static void main(String[] args) {
+//         numbers(5, 3);
+//     }
+// }
+
+import java.util.*;
+public class function {
+    Scanner sc = new Scanner(System.in);
+    int num = sc.nextInt();
+    static void inputs(int num){
+        int number = num*5;
+        System.out.println(number);
     }
     public static void main(String[] args) {
-        numbers(5, 3);
+        
     }
 }
