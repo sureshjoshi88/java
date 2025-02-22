@@ -32,16 +32,16 @@
 // }
 
 import java.util.*;
-public class function {
-    Scanner sc = new Scanner(System.in);
-    int num = sc.nextInt();
-    static void inputs(int num){
-        int number = num*5;
-        System.out.println(number);
-    }
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int num = sc.nextInt();
-        inputs(num);
-    }
-}
+// public class function {
+//     Scanner sc = new Scanner(System.in);
+//     int num = sc.nextInt();
+//     static void inputs(int num){
+//         int number = num*5;
+//         System.out.println(number);
+//     }
+//     public static void main(String[] args) {
+//         Scanner sc = new Scanner(System.in);
+//         int num = sc.nextInt();
+//         inputs(num);
+//     }
+// }
