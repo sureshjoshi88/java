@@ -30,9 +30,6 @@
 //         numbers(5, 3);
 //     }
 // }
-
-import java.util.*;
-// public class function {
 //     Scanner sc = new Scanner(System.in);
 //     int num = sc.nextInt();
 //     static void inputs(int num){
@@ -47,9 +44,11 @@ import java.util.*;
 // }
 
 
-public package java;
 
-class function {
+public class function {
 
+    static void message(String value){
+        System.out.println(value);
+    }
     
 }
