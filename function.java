@@ -50,5 +50,8 @@ public class function {
     static void message(String value){
         System.out.println(value);
     }
+    public static void main(String[] args) {
+        message("hello how are you");
+    }
     
 }
