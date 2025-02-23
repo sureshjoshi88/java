@@ -1,4 +1,4 @@
-package java;
+// package java;
 
 // public class function {
 //      static void  cars(){
@@ -46,13 +46,13 @@ package java;
 
 
 
-public class function {
+// public class function {
 
-    static void message(String value){
-        System.out.println(value);
-    }
-    public static void main(String[] args) {
-        message("hello how are you");
-    }
+//     static void message(String value){
+//         System.out.println(value);
+//     }
+//     public static void main(String[] args) {
+//         message("hello how are you");
+//     }
     
-}
+// }
