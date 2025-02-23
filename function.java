@@ -45,3 +45,11 @@ import java.util.*;
 //         inputs(num);
 //     }
 // }
+
+
+public package java;
+
+class function {
+
+    
+}
